@@ -1,0 +1,42 @@
+/* Estilos CSS para la tarjeta */
+/* Personaliza los estilos según tus preferencias */
+.thermostat-card {
+  background-color: #f0f0f0;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.temperature {
+  margin-bottom: 8px;
+}
+
+.label {
+  font-weight: bold;
+  margin-right: 4px;
+}
+
+.value {
+  font-size: 24px;
+}
+
+.controls {
+  margin-top: 16px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
