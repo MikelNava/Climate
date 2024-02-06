@@ -1,0 +1,9 @@
+{
+  "domain": "thermostat-card",
+  "name": "Thermostat Card",
+  "documentation": "<URL to documentation>",
+  "dependencies": [],
+  "codeowners": ["<your GitHub username or the component's original author>"],
+  "version": "1.0"
+}
+
